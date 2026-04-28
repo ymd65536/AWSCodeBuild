@@ -4,7 +4,7 @@ Description: 'CodeBuild Project for Public GitHub Repository'
 Parameters:
   GitHubRepositoryUrl:
     Type: String
-    Default: 'https://github.com/ymd65536/codebuild_ecr_cache.git'
+    Default: 'https://github.com/ymd65536/CodeBuildEcrCache.git'
     Description: Public GitHub Repository URL
   
   ImageRepoName:
